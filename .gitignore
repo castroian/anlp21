@@ -1,1 +1,11 @@
 .DS_Store
+data/my_datasets/dev.tsv
+data/my_datasets/more_data/dev_full.tsv
+data/my_datasets/more_data/test_full.csv
+data/my_datasets/more_data/test_full.tsv
+data/my_datasets/more_data/train_full.tsv
+data/my_datasets/shortened/dev.tsv
+data/my_datasets/shortened/test.tsv
+data/my_datasets/shortened/train.tsv
+data/my_datasets/test.tsv
+data/my_datasets/train.tsv
